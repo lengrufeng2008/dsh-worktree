@@ -17,6 +17,8 @@ In DSH:
 Use worktree_list on this repository.
 ```
 
+After installation, the `dsh-worktree` command can be run directly (`bin` is declared in `package.json`).
+
 ## Safety
 
 - Read-only DSH tool; create/remove are CLI-only.
